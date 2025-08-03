@@ -45,4 +45,4 @@ Response Format:
 ```
 
 UML sequence diagram:
-uml.png
+![UML](UML.png)
